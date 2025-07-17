@@ -7,7 +7,8 @@ let numeroMagico = null;
 // Función para crear número aleatorio:
 function generarNumeroMagico() {
   numeroMagico = Math.floor(Math.random() * 100) + 1;
-  alert("El número mágico se ha generado 👻 tiene un valor entre 1 y 100");
+  alert(`El número mágico se ha generado 👻 tiene un valor entre 1️⃣ y 1️⃣0️⃣0️⃣
+Aceptá para continuar el juego 🙌🏽`);
 }
 
 // Función para verificar el número ingresado:
