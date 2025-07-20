@@ -7,7 +7,7 @@ let numeroMagico = null;
 // Función para crear número aleatorio:
 function generarNumeroMagico() {
   numeroMagico = Math.floor(Math.random() * 100) + 1;
-  alert(`El número mágico se ha generado 👻 tiene un valor entre 1️⃣ y 1️⃣0️⃣0️⃣
+  alert(`El número mágico se ha generado 👀 tiene un valor entre 1️⃣ y 1️⃣0️⃣0️⃣
 Aceptá para continuar el juego 🙌🏽`);
 }
 
@@ -19,16 +19,16 @@ function verificarNumero(evento) {
   const numeroIngresado = parseInt(input.value); // al valor del inpunt lo transf en entero
 
   if (!numeroMagico) {
-    alert("⚠ Primero tocá el botón amarillo para comezar el juego.");
+    alert("⚠ Primero tocá el botón amarillo para comezar el juego 🧙🏽‍♂️");
     return;
   }
 
   if (numeroIngresado === numeroMagico) {
-    alert("🎉 ¡Felicidades! Adivinaste el número mágico.");
+    alert(`🎉 ¡Felicidades! Adivinaste que el número mágico era el ${numeroMagico} 🔮`);
   } else if (numeroIngresado < numeroMagico) {
-    alert("El número mágico era más alto 👆🏽");
+    alert("El número mágico es más alto 👆🏽");
   } else {
-    alert("El número mágico era más bajo 👇🏽");
+    alert("El número mágico es más bajo 👇🏽");
   }
 
   input.value = ""; // Para limpiar el input
