@@ -4,7 +4,7 @@ Este ejercicio implementa un juego interactivo en el navegador. El usuario debe 
 
 ## Demo del proyecto
 
-Mirá la demo del proyecto [aquí](https://numerostali.netlify.app/)
+Mirá la demo del proyecto [aquí](https://numerostali.netlify.app/) 👀
 
 ### 🔧 Tecnologías utilizadas 🛠
 - HTML5
@@ -19,7 +19,7 @@ Mirá la demo del proyecto [aquí](https://numerostali.netlify.app/)
 - DOM (manipulación de inputs, formularios)
 - Math.random() y Math.floor()
 
-## Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto 💻
 
 1. Cloná el repositorio escribiendo en una terminal el siguiente comando: `git clone https://github.com/TaliCabana/juegoNumerosMagicos.git`
 1. Luego abrí el index.html con un navegador
