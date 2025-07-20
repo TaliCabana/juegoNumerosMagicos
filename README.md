@@ -26,5 +26,5 @@ Mirá la demo del proyecto [aquí](https://numerostali.netlify.app/) 👀
 
 ### Autora 👩🏽‍💻
 **Tali Cabana** 
-- [LinkedIn](https://www.linkedin.com/in/paula-cabana-025a59a9/)
+- [LinkedIn](https://www.linkedin.com/in/paula-cabana-ingenieraindustrial/)
 - [GitHub](https://github.com/TaliCabana)
